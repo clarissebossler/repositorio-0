@@ -1,6 +1,6 @@
-#Strogonoff de Frango
+# Strogonoff de Frango
 
-#####Ingredientes
+### Ingredientes
 
 - 1 quilo de peito de frango sem pele
 - 1 tablete de caldo de galinha
@@ -14,7 +14,7 @@
 
 
 
-### Modo de Preparo:
+### Modo de Preparo
 
 1. Em uma panela a fogo médio, acrescente o óleo e o caldo de galinha e dissolva o caldo. Em seguida, coloque o frango picado em cubos na panela e deixe cozinhar.
 2. Assim que estiver bem cozido, acrescente o molho de tomate, o ketchup, a mostarda e o champignon.
