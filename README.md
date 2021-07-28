@@ -1,6 +1,7 @@
 # Livro de Receitas :woman_cook:
 
-Olá! Bem vindo ao meu livro de receitas :hibiscus:
+Olá! Pareço um livro de receitas, mas sou só um teste :hibiscus:
 
 - Strogonoff de frango
+- Pipoca
 
